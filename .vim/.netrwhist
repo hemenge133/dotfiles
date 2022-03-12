@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/hayden/desktop-icons/uninstall/meson-logs'
+let g:netrw_dirhist_4='/home/hayden/.config/gnome-session'
+let g:netrw_dirhist_3='/home/hayden/.config/gnome-session/saved-session'
+let g:netrw_dirhist_2='/home/hayden/.config/gnome-session'
+let g:netrw_dirhist_1='/var/log/journal/d8ebd830236a42bb8c08b70e10ea46d5'
+let g:netrw_dirhist_0='/home/hayden/.ssh'
+let g:netrw_dirhist_9='/mnt/wsl/home/h/Projects/MLSL/RootTime/overfit'
+let g:netrw_dirhist_8='/mnt/wsl/home/h/Projects/MLSL/RootTime/Noise_Test/seg'
+let g:netrw_dirhist_7='/mnt/wsl/home/h/Projects/MLSL/RootTime/Noise_Test'
+let g:netrw_dirhist_6='/mnt/wsl/home/h/Projects/MLSL/RootTime'

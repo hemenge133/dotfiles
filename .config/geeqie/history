@@ -1,0 +1,20 @@
+#History lists
+
+[shortcuts]
+".[path](null)"
+"Home[path]/home/hayden"
+"Desktop[path]/home/hayden/Desktop"
+"Collections[path]/home/hayden/.local/share/geeqie/collections"
+
+[path_list]
+"/home/hayden"
+"/home/hayden/Desktop"
+"/mnt/wsl/home/h/Projects/MLSL/EZTrain/ModelOutput"
+
+[bookmarks]
+".[path]/mnt/wsl/home/h/Projects/MLSL/EZTrain/ModelOutput"
+"Home[path]/home/hayden"
+"Desktop[path]/home/hayden/Desktop"
+"Collections[path]/home/hayden/.local/share/geeqie/collections"
+
+#end
